@@ -1,12 +1,10 @@
-# Emotion Detector
+# Final Project - Emotion Detector
 
-This project is an AI based web application that detects human emotions from text using IBM Watson NLP library.
+This repository contains the Final Project for the course.
 
-Features:
-- Detects emotions from text
-- Web interface using Flask
-- Unit testing
-- Error handling
-- Static code analysis
+The application detects emotions from text using IBM Watson NLP.
 
-Developed as part of the IBM AI Engineering course final project.
+## Features
+- Emotion detection from text
+- Flask web interface
+- Error handling for invalid input
